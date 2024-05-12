@@ -50,5 +50,5 @@ button:hover {
 }
 
 #searchResults {
-    color: red;
+    color: black; /* Default font color */
 }
