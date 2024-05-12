@@ -48,7 +48,3 @@ button {
 button:hover {
     background-color: #0056b3;
 }
-
-#searchResults {
-    color: black; /* Default font color */
-}
