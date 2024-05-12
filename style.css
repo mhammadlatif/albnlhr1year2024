@@ -49,8 +49,6 @@ button:hover {
     background-color: #0056b3;
 }
 
-footer {
-    background-color: #f8f9fa;
-    padding: 10px 0;
-    text-align: center;
+#searchResults {
+    color: red;
 }
