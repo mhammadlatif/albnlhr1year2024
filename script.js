@@ -25,6 +25,7 @@ function searchCredentials() {
         });
         if (!dataFound) {
             resultsDiv.innerHTML = '<p>No data found</p>';
+            resultsDiv.style.color = 'red'; // Change font color to red
         }
     })
     .catch(error => {
